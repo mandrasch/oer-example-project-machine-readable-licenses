@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/</loc>
+  <lastmod>2019-04-14T11:16:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-cc0.html</loc>
+  <lastmod>2019-04-14T10:57:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-ccby.html</loc>
+  <lastmod>2019-04-14T10:57:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-ccbysa.html</loc>
+  <lastmod>2019-04-14T10:57:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-ccbync.html</loc>
+  <lastmod>2019-04-14T10:57:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-ccbynd.html</loc>
+  <lastmod>2019-04-14T10:57:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/simple-page-ccbyncnd.html</loc>
+  <lastmod>2019-04-14T10:57:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-cc0.html</loc>
+  <lastmod>2019-04-14T10:57:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-ccby.html</loc>
+  <lastmod>2019-04-14T10:57:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-ccbysa.html</loc>
+  <lastmod>2019-04-14T10:57:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-ccbync.html</loc>
+  <lastmod>2019-04-14T10:57:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-ccbynd.html</loc>
+  <lastmod>2019-04-14T10:57:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oerexampleproject.matthias-andrasch.de/examples/image-ccbyncnd.html</loc>
+  <lastmod>2019-04-14T10:57:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
